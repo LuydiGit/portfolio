@@ -21,3 +21,5 @@ Estilizei com CSS e organizei os containers para separar as informações.
 Faltante:
 
 Quero puxar os dados de projetos diretamente do GitHub.
+
+Link do site: https://luydigit.github.io/portfolio/
